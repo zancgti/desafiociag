@@ -1,5 +1,5 @@
 README.md — Pokédex React (Desafio CIAg)
-==================
+
 Pokédex React — Desafio Técnico CIAg
 
 Este projeto foi desenvolvido como solução do Desafio 1 — Pokédex, conforme o documento oficial enviado no processo seletivo do CIAg.
