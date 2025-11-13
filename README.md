@@ -129,7 +129,6 @@ Busca avançada por tipos
 Filtros combinados
 
 Interface com tema dark
-
 Versão 100% PWA
 
 Desenvolvido por
